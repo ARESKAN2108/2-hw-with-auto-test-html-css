@@ -54,7 +54,7 @@ header span {
 .about-section {
   /* Стили для второй секции */
   background-color: #ffffff;
-  padding: 70px 0;
+  padding: 100px 0;
 }
 
 select {
@@ -73,13 +73,13 @@ select {
   font-size: 24px;
   font-weight: 700;
   line-height: 29px;
-  margin-bottom: 30px;
+  margin-bottom: 25px;
 }
 
 .frameworks-list {
   /* Стили для маркированного списка во второй секции */
   list-style-image: url(./assets/images/Vector.png);
-  padding-left: 20px;
+  padding: 0 20px;
   font-size: 16px;
   font-weight: 400;
   line-height: 19px;
