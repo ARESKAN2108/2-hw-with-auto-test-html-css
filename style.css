@@ -25,18 +25,31 @@ header span {
 
 .main-section {
   /* Стили для первой секции */
+  background-color: #fafaff;
+  padding: 60px 0;
+  min-height: 100vh;
 }
 
 .main-title {
   /* Стили для заголовка в первой секции */
+  color: #303030;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 58px;
+  margin-bottom: 20px;
 }
 
 .main-text {
   /* Стили для текста в первой секции */
+  color: #303030;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
 }
 
 .main-image {
   /* Стили для изображения в первой секции */
+  max-width: 715px;
 }
 
 .about-section {
