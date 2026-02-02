@@ -147,8 +147,11 @@ td {
 
 footer {
   /* Стили для футера */
+  background-color: rgb(163, 167, 255, 30%);
+  padding: 25px 0;
 }
 
 .footer-link {
   /* Стили для футера */
+  text-decoration: none;
 }
